@@ -1,0 +1,9 @@
+# Container Security Tools Konfiguration
+
+scan_images:
+  - nanoclaw-agent:latest
+
+build_images:
+  - nanoclaw-agent
+
+pull_images: []

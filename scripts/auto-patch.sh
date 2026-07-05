@@ -1,0 +1,1 @@
+../security-tools/scripts/auto-patch.sh
